@@ -6,7 +6,7 @@
  👩🏻‍💻 Software Engineer </br>
  📚 I'm currently learning Python </br>
  🔭 I’m currently working on <a href="https://reachin-webservice.onrender.com">ReachIn</a></br>
- 💬 Ask me about <a href="https://github.com/danielhlee4/TuneUp">TuneUp</a></br>
+ 💬 Ask me about <a href="https://tuneup-twco.onrender.com">TuneUp</a></br>
  ✨ Interests: Gaming, Shooting, Food, Cooking, Latest Tech!
 </div>
 
