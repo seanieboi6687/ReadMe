@@ -1,4 +1,4 @@
-# Hi, I'm Sean Jeun!🧑🏻‍💻
+# Hi, I'm Sean!🧑🏻‍💻
 <img align="left" src="https://github.com/seanieboi6687/seanjeun/assets/101304652/6ab27377-cc87-4c03-a4a3-9e2a6d7b0172" height="300"/>
 <div width="50%">
   
