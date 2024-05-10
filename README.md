@@ -11,6 +11,7 @@
 
 ## Languages and Tools
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ruby.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
